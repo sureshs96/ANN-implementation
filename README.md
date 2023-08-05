@@ -14,3 +14,7 @@ ANN implementation demo
 ```bash
     conda activate ./envs
 ```
+
+```bash
+    conda env export > environment.yml
+```
