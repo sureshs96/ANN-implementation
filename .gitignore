@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+envs/
 
 # Spyder project settings
 .spyderproject
@@ -145,6 +146,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.vscode/
+.idea/
 
 # pytype static type analyzer
 .pytype/
